@@ -1,4 +1,4 @@
-# Cyberbullying-Tweet-Detection
+# Cyberbullying-Tweet-Classification
 
 - Dataset from https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification
 

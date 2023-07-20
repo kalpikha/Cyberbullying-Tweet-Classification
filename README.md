@@ -11,3 +11,9 @@
     - Religion
     - Other type of cyberbullying
     - Not cyberbullying
+  
+
+# Accuracy Score
+1. Naive Bayes - 0.877
+2. Logistic Regression - 0.892
+3. Random Forest - 0.914

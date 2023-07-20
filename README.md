@@ -4,7 +4,7 @@
 
 1. tweet_text: This contains all the text written in the tweet.
 
-1.cyberbullying_type: 6 different classes:
+2. cyberbullying_type: 6 different classes:
     - Age
     - Ethnicity
     - Gender

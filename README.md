@@ -1,6 +1,7 @@
 # Cyberbullying-Tweet-Classification
 
 - Dataset from https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification
+  Following are the attributes :
 
 1. tweet_text: This contains all the text written in the tweet.
 
